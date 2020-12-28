@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# build
+/dist
+
+# package-lock
+/package-lock.json
+
+# log files
+/*.log
+
+# cache files
+/.cache
